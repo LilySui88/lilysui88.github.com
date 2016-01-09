@@ -2,7 +2,7 @@
 layout: post
 title: "Mark my blog"
 description: ""
-category:
+category: feeling
 tags: []
 ---
 {% include JB/setup %}
