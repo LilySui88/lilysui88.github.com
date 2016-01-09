@@ -2,7 +2,7 @@
 layout: post
 title: "Mark my blog"
 description: ""
-category: feeling
+category: 关于心情
 tags: []
 ---
 {% include JB/setup %}
