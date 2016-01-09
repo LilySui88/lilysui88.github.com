@@ -2,8 +2,8 @@
 layout: post
 title: "Mark my blog"
 description: ""
-category: 关于心情
-tags: []
+category: Fun
+tags: [github,jekyll]
 ---
 {% include JB/setup %}
 记我的jekyll博客，
