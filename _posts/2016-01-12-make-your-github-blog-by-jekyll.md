@@ -34,10 +34,10 @@ mac用gem方式安装，为了加快安装速度，需要先修改gem源，在�
 ###5、下载Jekyll-Bootstrap博客模板到本地（USERNAME同上）
 本地，从终端进入想要安装模板的目录，输入：
 
-    git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com #把Jekyll-Bootstrap下载到USERNAME.github.com
-    cd USERNAME.github.com
-    git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git #把本地代码关联USERNAME.github.com这个repository
-    git push origin master
+    $ git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com #把Jekyll-Bootstrap下载到USERNAME.github.com
+    $ cd USERNAME.github.com
+    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git #把本地代码关联USERNAME.github.com这个repository
+    $ git push origin master
 
 等几分钟后，就可以在http://USERNAME.github.io下看到博客模板最开始的样子
 
