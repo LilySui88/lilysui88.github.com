@@ -11,3 +11,5 @@ tags: [work,lagou]
 情绪上的控制，技术上的成长，感情上的收获，在这里得到了很多，比较满足，所以很感谢这个平台！！！
 
 但新的一年，我还是希望自己继续能在这里成长和进步，加油@。@ Lily，Fighting！
+
+![zhongqiu](/pic/2015_mid_autumn_festval.png)
