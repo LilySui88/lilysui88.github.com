@@ -9,11 +9,8 @@ tags: [linux]
 
 
 * df -lh 
-    * 查看系统磁盘空间，查看系统是否有挂载的网络系统
 
-```javascript
-  var ihubo = {
-    nickName  : "草依山",
-    site : "http://jser.me"
-  }
-```
+	查看系统磁盘空间，查看系统是否有挂载的网络系统
+
+
+```搜```
