@@ -61,3 +61,8 @@ tags: [linux]
 * 查看本机端口占用
 
 		netstat -ntpl
+
+
+{% highlight ruby  %}
+netstat -ntpl	
+{% endhighlight %}
