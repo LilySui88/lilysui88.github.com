@@ -63,6 +63,6 @@ tags: [linux]
 		netstat -ntpl
 
 
-{% highlight ruby  %}
+{% highlight bash linenos %}
 netstat -ntpl	
 {% endhighlight %}
