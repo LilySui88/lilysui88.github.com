@@ -21,7 +21,6 @@ import sun.misc.*;
 
 @SuppressWarnings("restriction")
 public class TestKillJava implements SignalHandler{
-
 	/**
 	 * @param args
 	 */
@@ -35,7 +34,7 @@ public class TestKillJava implements SignalHandler{
             System.out.println("running......");  
         }  
 	}
-
+	
 	/**
 	 * 回调函数
 	 */
