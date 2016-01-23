@@ -26,7 +26,6 @@ public class TestKillJava implements SignalHandler{
 	 * @param args
 	 */
 	public static void main(String[] args)  throws InterruptedException {
-		
 		TestKillJava testSignalHandler = new TestKillJava();  
         Signal.handle(new Signal("TERM"), testSignalHandler); //相当于kill -15 
         //Signal.handle(new Signal("USR1"), testSignalHandler);  测试时，抛出该信号被占用的异常
