@@ -69,6 +69,6 @@ java.lang.IllegalArgumentException: Signal already used by VM: USR1
 #kill小技巧
 直接关闭指定Java程序的命令
 
-{% highlight  linenos %}
+{% highlight  bash linenos %}
 ps -ef |grep JavaProgramName |awk '{print $2}'| grep -v grep |xargs kill -15
 {% endhighlight %}
