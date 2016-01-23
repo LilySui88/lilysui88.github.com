@@ -5,7 +5,8 @@ tagline: Good Good Study,Day Day Up
 ---
 {% include JB/setup %}
 
-## Coding
+## Let's step into coding together !!!
+
 {% highlight c %}
 /* hello world demo */
 #include <stdio.h>

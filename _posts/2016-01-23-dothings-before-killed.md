@@ -3,14 +3,14 @@ layout: post
 title: "Java程序捕获kill信号"
 description: ""
 category: tech
-tags: [java,kill]
+tags: [java]
 ---
 {% include JB/setup %}
 
 #源程序
 
 
-{% highlight java linenos %}
+{% highlight java%}
 import sun.misc.*;
 
 /**
