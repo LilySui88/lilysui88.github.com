@@ -62,7 +62,3 @@ tags: [linux]
 
 		netstat -ntpl
 
-
-{% highlight bash linenos %}
-netstat -ntpl	
-{% endhighlight %}
