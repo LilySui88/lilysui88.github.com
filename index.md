@@ -6,7 +6,15 @@ tagline: Good Good Study,Day Day Up
 {% include JB/setup %}
 
 ## Coding
-    Just keep on coding
+{% highlight c %}
+/* hello world demo */
+#include <stdio.h>
+int main(int argc, char **argv)
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+{% endhighlight %}
 
 ## All My Posts
 
