@@ -7,7 +7,7 @@ tags: [linux]
 ---
 {% include JB/setup %}
 
-##基本说明
+## 基本说明
 
 第1列分钟1～59
 
@@ -21,11 +21,11 @@ tags: [linux]
 
 第6列要运行的命令
 
-##下面是crontab的格式：
+## 下面是crontab的格式：
 
 分 时 日 月 星期 要运行的命令
 
-##这里有crontab文件条目的一些例子：
+## 这里有crontab文件条目的一些例子：
 
     30 21 * * * /usr/local/apache/bin/apachectl restart
     
