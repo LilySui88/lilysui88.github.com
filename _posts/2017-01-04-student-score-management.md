@@ -2,12 +2,13 @@
 layout: post
 title: "学生成绩管理，C语言版"
 description: ""
-category: c
-tags: [coding]
+category: coding
+tags: [c]
 ---
 {% include JB/setup %}
 
-#事件的起因
+##事件的起因
+
 
 一如往常，早上上班来到办公室，检查了昨天的数据报表，都按时出来了。因为最近手头的活都干的差不多了，心中窃喜，想着今天可以自己干点喜欢的事情。
 
