@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 2016 is leaving,the 2017 is coming"
+title: "学生成绩管理，C语言版"
 description: ""
 category: c
 tags: [coding]
@@ -8,9 +8,11 @@ tags: [coding]
 {% include JB/setup %}
 
 #事件的起因
+
 一如往常，早上上班来到办公室，检查了昨天的数据报表，都按时出来了。因为最近手头的活都干的差不多了，心中窃喜，想着今天可以自己干点喜欢的事情。
 
 But，突然接到大侄子的微信，
+
 ![大侄子的求救微信](http://upload-images.jianshu.io/upload_images/3367144-9dace2ad04684875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 大侄子今年刚上大一，这不期末了么，老师布置了C语言的作业，具体要求就是如上图了~
