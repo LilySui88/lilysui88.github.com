@@ -2,8 +2,8 @@
 layout: post
 title: "The 2016 is leaving,the 2017 is coming"
 description: ""
-category: Life
-tags: [wedding,iqiyi]
+category: c
+tags: [coding]
 ---
 {% include JB/setup %}
 
