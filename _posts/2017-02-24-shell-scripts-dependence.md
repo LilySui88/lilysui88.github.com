@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hive SQL，在Reduce任务Shuffle阶段出现OOM"
+title: "保障Hadoop集群间shell脚本依赖关系的办法"
 description: ""
 category: tech
 tags: [shell,hadoop]
